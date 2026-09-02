@@ -1,0 +1,31 @@
+order_id,order_date,customer_name,product,category,quantity,unit_price,sales,profit,city,order_status
+1001,2026-01-03,Rahul,Laptop,Electronics,2.0,55000,110000.0,9000.0,Mumbai,Completed
+1002,2026-01-05,Priya,Office Chair,Furniture,3.0,7500,22500.0,3000.0,Delhi,Completed
+1003,2026-01-07,Amit,Notebook,Office Supplies,10.0,250,2500.0,500.0,Bangalore,Completed
+1004,2026-01-10,Sneha,Mobile,Electronics,2.0,28000,56000.0,5000.0,Pune,Completed
+1005,2026-01-12,Vikash,Desk,Furniture,1.0,12000,12000.0,1800.0,Patna,Pending
+1006,2026-01-15,Neha,Printer,Electronics,2.0,18000,36000.0,4500.0,Kolkata,Completed
+1007,2026-01-18,Rohit,Pen Set,Office Supplies,15.0,120,1800.0,350.0,Delhi,Completed
+1008,2026-01-20,Anjali,Monitor,Electronics,3.0,15000,45000.0,5500.0,Mumbai,Completed
+1009,2026-01-22,Karan,Bookshelf,Furniture,2.0,6500,13000.0,2000.0,Bangalore,Cancelled
+1010,2026-01-25,Pooja,File Folder,Office Supplies,20.0,80,1600.0,300.0,Pune,Completed
+1011,2026-02-02,Arjun,Laptop,Electronics,1.0,58000,58000.0,9500.0,Mumbai,Completed
+1012,2026-02-05,Kavita,Office Chair,Furniture,4.0,7200,28800.0,3800.0,Delhi,Completed
+1013,2026-02-08,Suresh,Notebook,Office Supplies,12.0,240,2880.0,600.0,Bangalore,Completed
+1014,2026-02-11,Riya,Mobile,Electronics,3.0,27500,82500.0,7200.0,Pune,Completed
+1015,2026-02-14,Manish,Desk,Furniture,2.0,12500,25000.0,3200.0,Patna,Completed
+1016,2026-02-17,Deepak,Printer,Electronics,1.0,17500,17500.0,2200.0,Kolkata,Pending
+1017,2026-02-20,Nisha,Pen Set,Office Supplies,18.0,110,1980.0,400.0,Delhi,Completed
+1018,2026-02-22,Ravi,Monitor,Electronics,2.0,15500,31000.0,4200.0,Mumbai,Completed
+1019,2026-02-25,Sonam,Bookshelf,Furniture,1.0,6800,6800.0,1000.0,Bangalore,Completed
+1020,2026-02-27,Ajay,File Folder,Office Supplies,25.0,75,1875.0,350.0,Pune,Completed
+1022,2026-03-05,Akash,Office Chair,Furniture,2.0,7600,22800.0,3100.0,Delhi,Completed
+1023,2026-03-08,Tina,Notebook,Office Supplies,15.0,260,3900.0,3000.0,Bangalore,Completed
+1024,2026-03-11,Varun,Mobile,Electronics,2.0,29000,58000.0,6200.0,Pune,Completed
+1025,2026-03-14,Neeraj,Desk,Furniture,1.0,13000,13000.0,1700.0,Patna,Pending
+1026,2026-03-17,Isha,Printer,Electronics,2.0,18500,37000.0,4800.0,Kolkata,Completed
+1027,2026-03-20,Mohan,Pen Set,Office Supplies,20.0,115,2300.0,450.0,Delhi,Completed
+1028,2026-03-23,Simran,Monitor,Electronics,2.0,16000,32000.0,4300.0,Mumbai,Completed
+1029,2026-03-26,Yash,Bookshelf,Furniture,2.0,7000,14000.0,2100.0,Bangalore,Cancelled
+1030,2026-03-29,Ayesha,File Folder,Office Supplies,30.0,85,2550.0,500.0,Pune,Completed
+1021,,Meera,Laptop,Electronics,1.0,60000,60000.0,10000.0,Mumbai,Completed
